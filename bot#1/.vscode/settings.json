@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\truon\\Downloads\\JDA-4.2.1_266-withDependencies.jar"
+    ]
+}
